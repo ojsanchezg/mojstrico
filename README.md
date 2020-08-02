@@ -1,0 +1,2 @@
+# mojstrico
+Un repositorio personal
